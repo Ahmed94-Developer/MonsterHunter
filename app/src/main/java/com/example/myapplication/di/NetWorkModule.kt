@@ -1,4 +1,4 @@
-package com.example.myapplication.retrofit.module
+package com.example.myapplication.di
 
 import com.example.myapplication.retrofit.api.DataApi
 import dagger.Module

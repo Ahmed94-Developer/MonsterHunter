@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.di
 
 import androidx.lifecycle.ViewModel
 import com.example.myapplication.viewmodel.ArmorViewModel

@@ -16,7 +16,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.myapplication.adapter.ArmorAdapter
 import com.example.myapplication.application.ArmorApplication
-import com.example.myapplication.retrofit.module.ApplicationComponent
 import com.example.myapplication.viewmodel.ArmorViewModel
 import com.example.myapplication.viewmodel.ViewModelFactory
 import javax.inject.Inject
@@ -43,11 +42,6 @@ class MainActivity : AppCompatActivity() {
             adapter.setArmorData(it)
             armorsRv.adapter = adapter
             armorsRv.layoutManager = linearLayoutManager
-
         })
-
-
-
-
     }
 }
