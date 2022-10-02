@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/MonsterHunter/app/src/main/res/drawable/bg_shape.xml" value="0.155" />
+        <entry key="..\:/AndroidStudioProjects/MonsterHunter/app/src/main/res/drawable/edit_shape.xml" value="0.155" />
+        <entry key="..\:/AndroidStudioProjects/MonsterHunter/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MonsterHunter/app/src/main/res/layout/activity_splash.xml" value="0.2" />
         <entry key="..\:/Users/future/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/slot_shape.xml" value="0.1855" />
         <entry key="..\:/Users/future/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/future/AndroidStudioProjects/MyApplication/app/src/main/res/layout/armor_slot_row.xml" value="0.17481884057971014" />

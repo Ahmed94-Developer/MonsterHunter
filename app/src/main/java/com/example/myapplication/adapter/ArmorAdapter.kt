@@ -51,6 +51,21 @@ class ArmorAdapter(context: Context) : RecyclerView.Adapter<ArmorAdapter.ArmorVi
 
 
     }
+    fun filterList(filterlist: ArrayList<HunterData>) {
+
+        // below line is to add our filtered
+
+        // list in our course array list.
+
+        hunterDataList = filterlist
+
+        // below line is to notify our adapter
+
+        // as change in recycler view data.
+
+        notifyDataSetChanged()
+
+    }
 
     fun setArmorData(armorData: List<HunterData>?) {
         if (armorData != null) {
